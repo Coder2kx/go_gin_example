@@ -69,7 +69,7 @@ $ mockgen -package=repository base-gin-golang/domain/repository ProductRepositor
 ## UseCase
 
 ```shell
-$ mockgen -package=helpdesk_contract base-gin-golang/usecase/helpdesk_contract HelpDeskContractUseCase > mock/usecase/helpdesk_contract/helpdesk_contract.go
+$ mockgen -package=product base-gin-golang/usecase/product UseCase > mock/usecase/product/main.go
 ```
 <<<<<<< HEAD
 >>>>>>> 6065a8b (feat: Add hook)
