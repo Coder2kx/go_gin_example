@@ -1,0 +1,11 @@
+.vscode
+.env
+__debug_bin*
+*.log
+.idea
+.docker
+main
+profile.cov
+profile.cov
+profile-child.cov
+profile.cov.svg
