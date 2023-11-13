@@ -1,1 +1,1 @@
-# go_example
+# go_gin_example
